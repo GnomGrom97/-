@@ -1,0 +1,12 @@
+import java.util.*;
+public class Main {
+    public static void main(String[] args) {
+
+        double distance;
+        double distance2;
+
+        distance =(6.8*1234.8)/360;
+
+
+
+        System.out.println(distance);}}
